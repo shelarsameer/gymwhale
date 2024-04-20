@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Black Sports Shoes",
+    "imageSrc": "src/Assets/product-1.jpg",
+    "category": "Footwear",
+    "rating": 3.5,
+    "price": 100.0
+  },
+  {
+    "id": 2,
+    "name": "Headphones",
+    "imageSrc": "src/Assets/product-5.jpg",
+    "category": "Electronics",
+    "rating": 3.0,
+    "price": 230.0
+  },
+  {
+    "id": 3,
+    "name": "Red White Striped Black Shirt",
+    "imageSrc": "src/Assets/product-3.jpg",
+    "category": "Clothing",
+    "rating": 3.5,
+    "price": 80.0
+  }
+]
