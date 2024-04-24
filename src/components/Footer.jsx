@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="row">
         <div className="footer-col-1">
           <h3>Download App</h3>
-          <a href="https://play.google.com"><img src="src/Assets/playstore.png" width="180px" alt=""/></a>
+          <a href="https://play.google.com"><img src="Assets/playstore.png" width="180px" alt=""/></a>
           <a href="https://www.apple.com/in/app-store/"><img src="src/Assets/appstore.png" width="180px" alt=""/></a>
         </div>
         <div className="footer-col-2">
